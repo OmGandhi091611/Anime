@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+## Note:
+This is not mobile responsive as it is just fro educational purposes of how to make API calls.
 ### `npm start`
 
 Runs the app in the development mode.\
