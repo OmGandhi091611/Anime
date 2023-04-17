@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ## Note:
 This is not mobile responsive as it is just fro educational purposes of how to make API calls.
+anime-vaeqarbxf-omgandhi091611.vercel.app
 ### `npm start`
 
 Runs the app in the development mode.\
